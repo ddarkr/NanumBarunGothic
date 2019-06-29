@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('나눔바른고딕'),
+         url(./fonts/NBG.woff2) format('woff2'),
+         url(./fonts/NBG.woff) format('woff');
+  }
+  
+  @font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local('나눔바른고딕 Bold'),
+         url(./fonts/NBGBold.woff2) format('woff2'),
+         url(./fonts/NBGBold.woff) format('woff');
+  }
+  
+  @font-face {
+    font-family: 'NanumBarunGothic';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local('나눔바른고딕 Light'),
+         url(./fonts/NBGLight.woff2) format('woff2'),
+         url(./fonts/NBGLight.woff) format('woff');
+  }
